@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FachriTV - Film</title>
+    <link rel="stylesheet" href="styles.css">
+    <div class="navigasi">
+        <nav>
+            <input type="checkbox" id="check">
+            <label for="check" class="checkbtn">
+              <i>≡</i>
+            </label>
+            <label class="logo">FachriTV</label>
+            <ul>
+              <li><a href="index.html">Beranda</a></li>
+              <li><a href="serial.html">Serial</a></li>
+              <li><a class="active" href="film.html">Film</a></li>
+              <li><a href="tentang.html">Tentang</a></li>
+            </ul>
+          </nav>
+    </div>
+    
+</head>
+<body>
+    <div class="content" id="konten">
+        <div id="peringatan" class="warningtext">
+            <p>Halaman ini tidak akan bekerja semestinya karena json-server belum dijalankan. Silahkan jalankan json server dengan membuka cmd pada folder ini dan ketik "npx json-server --watch db.json", lalu silahkan refresh halaman ini.</p>
+        </div>
+    </div> 
+</body>
+<style>
+    .warningtext{
+        box-shadow: 5px;
+        margin: 5%;
+        color: white;
+        border-radius: 20px;
+        padding: 40px;
+    }
+</style>
+<script src="film.js"></script>
+</html>

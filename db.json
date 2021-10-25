@@ -1,0 +1,85 @@
+{
+    "film": [
+      { 
+        "id": 1, 
+        "title": "Avengers : End Game",
+        "img":"avengers-endgame", 
+        "star":8.4,
+        "type":"movie",
+        "link":"https://www.imdb.com/title/tt4154796/",
+        "deskripsi": "Setelah peristiwa dahsyat Avengers: Infinity War (2018), alam semesta hancur. Dengan bantuan sekutu yang tersisa, Avengers berkumpul sekali lagi untuk membalikkan tindakan Thanos dan mengembalikan keseimbangan alam semesta."
+      },{ 
+        "id": 2, 
+        "title": "Gundala",
+        "img":"gundala", 
+        "star":6.2,
+        "link":"https://www.imdb.com/title/tt8237172/",
+        "type":"movie",
+        "deskripsi": "Ketika situasi kota semakin tidak aman dan ketidakadilan merajalela di seluruh negeri, Sancaka harus buat keputusan yang berat, tetap hidup di zona amannya, atau keluar sebagai Gundala untuk membela orang-orang yang ditindas." 
+      },{
+        "id": 3, 
+        "title": "The Mandalorian", 
+        "img":"themandalorian",
+        "star":8.8,
+        "type":"serial",
+        "link":"https://www.imdb.com/title/tt8111088/",
+        "deskripsi": "Setelah hancurnya kekaisaran Galaksi, kekacauan tersebar di seluruh galaksi. Seorang penembak penyendiri berusaha menjelajahi wilayah terluar, mendapatkan penghasilannya sebagai pemburu hadiah." 
+      },{
+        "id": 4, 
+        "title": "Interstellar", 
+        "img":"interstellar",
+        "star":8.6,
+        "type":"movie",
+        "link":"https://www.imdb.com/title/tt0816692/",
+        "deskripsi": "Sebuah tim penjelajah antar galaksi harus melewati lubang cacing dan terjebak di dimensi waktu ruang angkasa dalam upaya untuk menjamin kelangsungan hidup umat manusia di planet bumi." 
+      },{ 
+        "id": 5, 
+        "title": "Star Wars : Revenge of the Sith", 
+        "img":"revengeofthesith",
+        "star":7.5,
+        "type":"movie",
+        "link":"https://www.imdb.com/title/tt0121766/",
+        "deskripsi": "Master Jedi Obi-Wan Kenobi dan Anakin Skywalker bergabung untuk menyelamatkan Kanselor Palpatine dari cengkraman Count Doku. Namun, Anakin kini masuk perangkap ke dalam permainan pikiran Palpatine." 
+      },{
+        "id": 6, 
+        "title": "Game of Thrones", 
+        "img":"gameofthrones",
+        "star":9.2,
+        "type":"serial",
+        "link":"https://www.imdb.com/title/tt0944947/",
+        "deskripsi": "Sembilan keluarga bangsawan berjuang untuk menguasai tanah Westeros, sementara musuh kuno kembali setelah tidak aktif selama ribuan tahun." 
+      },{
+        "id": 7, 
+        "title": "Squid Game", 
+        "img":"squidgame",
+        "star":8.1,
+        "type":"serial",
+        "link":"https://www.imdb.com/title/tt10919420/",
+        "deskripsi": "Ratusan pemain yang kekurangan uang menerima undangan aneh untuk bertanding dalam permainan anak-anak. Di dalam, hadiah menggiurkan menunggu dengan taruhan tinggi yang mematikan. Gim bertahan hidup yang dipertaruhkan dengan hadiah 45,6 miliar won." 
+      },{
+        "id": 8, 
+        "title": "Money Heist", 
+        "img":"moneyheist",
+        "star":8.2,
+        "type":"serial",
+        "link":"https://www.imdb.com/title/tt6468322/",
+        "deskripsi": "Sekelompok perampok yang tidak biasa berusaha melakukan perampokan paling sempurna dalam sejarah Spanyol - mencuri 2,4 miliar euro dari Royal Mint of Spain." 
+      },{
+        "id": 9, 
+        "title": "Titanic", 
+        "img":"titanic",
+        "star":7.8,
+        "type":"movie",
+        "link":"https://www.imdb.com/title/tt0120338/",
+        "deskripsi": "Seorang bangsawan berusia tujuh belas tahun jatuh cinta dengan artis yang baik hati tetapi miskin di atas kapal mewah R.M.S. Raksasa." 
+      },{
+        "id": 10, 
+        "title": "The Clone Wars", 
+        "img":"theclonewars",
+        "star":8.3,
+        "type":"serial",
+        "link":"https://www.imdb.com/title/tt0458290/",
+        "deskripsi": "Ksatria Jedi memimpin Tentara Besar Republik melawan tentara droid Separatis." 
+      }
+    ]
+  }
